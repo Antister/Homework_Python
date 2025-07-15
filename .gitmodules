@@ -1,0 +1,12 @@
+[submodule "paper_analysis"]
+	path = paper_analysis
+	url = https://github.com/Antister/paper_analysis.git
+[submodule "weather_analyse"]
+	path = weather_analyse
+	url = https://github.com/DocKitty/weather_analyse.git
+[submodule "biglotto_analyse"]
+	path = biglotto_analyse
+	url = https://github.com/Monster-cqz/big-lotto-analyse
+[submodule "hurun_analyse"]
+	path = hurun_analyse
+	url = https://github.com/DraPhoCarp/Hurun_Wealth.git
